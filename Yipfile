@@ -1,5 +1,5 @@
 
-license "Utility classes for the Parse/Twitter integration.
+license "Useful wrappers for the Parse/Twitter integration.
 Copyright (c) 2014 Nikolay Zapolnov (zapolnov@gmail.com).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -21,7 +21,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE."
 
 import parse-com
-import ios-twitter-util
+import twitter-util
 import ios-util
 
 ios:framework Social
